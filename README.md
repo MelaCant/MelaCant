@@ -1,7 +1,6 @@
 ### Hi there 👋, My name is Melina
 #### I'm a Web Designer 
-![I'm a Web Designer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
+![I'm a Web Designer ]
 
 Skills:  HTML / CSS/ JS
 
