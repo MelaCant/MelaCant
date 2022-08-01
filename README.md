@@ -1,8 +1,7 @@
 ### Hi there 👋, My name is Melina
 #### I'm a Web Designer 
-![I'm a Web Designer ]
 
-Skills:  HTML / CSS/ JS
+Languajes and tools:  HTML / CSS/ JS
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Full Stack web Developer and Design UX/IU 
