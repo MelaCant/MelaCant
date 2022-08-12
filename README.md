@@ -2,7 +2,7 @@
 :iphone: I'm a Web Designer from Argentina:computer:
 
 ✨ **Languages and Tools:**  ✨
-##### HTML / CSS/ JS
+##### HTML / CSS/ JS/ Bootstrap/ Sass/ Npm/ Git
 
 
 :books: I’m currently learning Full Stack Web Developer and Design UX/IU :green_book:
